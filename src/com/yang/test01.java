@@ -18,6 +18,7 @@ public class test01 {
         System.out.println(countElement(str));
         System.out.println("吃屎去吧");
         System.out.println("吃屎去吧");
+        System.out.println("master test");
 
 
     }
