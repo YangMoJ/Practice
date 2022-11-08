@@ -16,6 +16,7 @@ public class test01 {
         String str = "Fe2(SO4)3";
 
         System.out.println(countElement(str));
+        System.out.println("吃屎去吧");
 
     }
 
