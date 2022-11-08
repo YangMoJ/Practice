@@ -19,6 +19,7 @@ public class test01 {
         System.out.println("吃屎去吧");
         System.out.println("吃屎去吧");
         System.out.println("master test");
+        System.out.println("hot-fix test");
 
 
     }
