@@ -23,6 +23,7 @@ public class test01 {
         System.out.println("hot-fix test2");
         System.out.println("法甲案件");
         System.out.println("法甲");
+        System.out.println("法甲是第五联赛");
         
         
 
