@@ -22,10 +22,6 @@ public class test01 {
         System.out.println("hot-fix test");
         System.out.println("hot-fix test2");
         System.out.println("法甲案件");
-        System.out.println("流浪人群");
-        System.out.println("流浪汉");
-        System.out.println("djjdjjdj");
-        System.out.println("滚蛋去吧");
         
 
 
