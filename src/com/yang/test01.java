@@ -24,7 +24,6 @@ public class test01 {
         System.out.println("法甲案件");
         System.out.println("流浪人群");
         System.out.println("流浪汉");
-        System.out.println("茶话会");
         
 
 
