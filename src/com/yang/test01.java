@@ -25,6 +25,7 @@ public class test01 {
         System.out.println("流浪人群");
         System.out.println("流浪汉");
         System.out.println("djjdjjdj");
+        System.out.println("滚蛋去吧");
         
 
 
